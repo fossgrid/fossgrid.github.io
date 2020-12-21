@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>libreoffice on FOSS Grid</title>
+    <link>/tags/libreoffice/</link>
+    <description>Recent content in libreoffice on FOSS Grid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/libreoffice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LibreOffice 7.0.4 Released</title>
+      <link>/news/libreoffice-7.0.4-released/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/libreoffice-7.0.4-released/</guid>
+      <description>The document foundation released LibreOffice 7.0.4 on December 17, 2020. Visit https://blog.documentfoundation.org/blog/2020/12/17/libreoffice-704/ for the official release announcment.
+LibreOffice is a free and open-source office suite.</description>
+    </item>
+    
+  </channel>
+</rss>

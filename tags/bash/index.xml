@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash on FOSS Grid</title>
+    <link>/tags/bash/</link>
+    <description>Recent content in bash on FOSS Grid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GTK 4.0 Released</title>
+      <link>/news/gtk-4.0-released/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/gtk-4.0-released/</guid>
+      <description>The GTK Development Blog announced the the release of GTK 4.0:
+ 2020 has been a very long year. What better way to end it than with a major release! Today, we released GTK 4.0.
+ GTK 4.0 comes with many new features that include an advanced data transfer framework, layout managers and transforms, shaders, etc.
+On the support of older versions of GTK, the announcement mentioned that GTK 2 has reached the end of life and GTK 3 will continue to be supported.</description>
+    </item>
+    
+    <item>
+      <title>Bash 5.1 Released</title>
+      <link>/news/bash-5.1-released/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/bash-5.1-released/</guid>
+      <description>The GNU project has released Bash 5.1. Chet Ramey posted an email to the info-gnu mailing list and announced:
+ This is the fifth major release of bash. Read the file NEWS in the bash-5.1 distribution for a complete description of the new features.
+ The announcement further describes the following new features:
+ This release fixes several outstanding bugs in bash-5.0 and introduces several new features. The most significant change is a return to the bash-4.</description>
+    </item>
+    
+  </channel>
+</rss>
